@@ -1,7 +1,7 @@
 // Import from profileCard.js
 import greet, { createProfileCard } from './profileCard.js';
 // Import from mathUtils.js
-import greetMath, { add, multiply } from './mathUtils.js';
+import greetMath, { add, multiply } from './mathutils.js';
 
 // Call greetings
 greet();
